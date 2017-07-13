@@ -389,54 +389,77 @@ template {
 [hidden] {
   display: none; }
 
-h1 {
+html {
+  height: 100%; }
+
+a {
+  text-decoration: none;
   color: blue; }
-
-h2 {
-  color: darkblue; }
-
-h3 {
-  color: green; }
+  a:hover {
+    text-decoration: underline; }
 
 body {
-  margin: 0;
-  font-family: "Open Sans", sans-serif;
-  color: green;
-  background-color: white; }
+  font-family: "Roboto", sans-serif;
+  min-height: 100%;
+  position: relative; }
 
-#header {
-  height: 100px;
-  background-color: white;
+.main__title {
+  line-height: 120%;
+  color: #4c4848;
+  text-align: center; }
+
+.main {
+  padding-bottom: 60px; }
+
+.main__date {
+  font-size: 0.8075em; }
+
+.summary__header {
+  margin-bottom: 1em; }
+
+.summary__date {
+  font-size: 0.8075em; }
+
+.summary__title {
+  margin: 0 0; }
+  .summary__title a {
+    color: #4c4848;
+    font-weight: bolder;
+    margin: 0 0;
+    font-family: 'Roboto', sans-serif; }
+
+.header {
+  height: 75px;
+  background-color: #ffffff;
   position: fixed;
   top: 0;
   left: 0;
   right: 0;
   border-bottom-style: solid;
-  border-color: green;
-  border-width: 0.01em;
+  border-color: #e0e0e0;
+  border-width: 1px;
   margin: 0 auto; }
 
-#header-title > a {
+.header__title {
   margin-left: 3.5vw;
-  color: black;
-  text-decoration: none; }
-
-#header-title > a:hover {
-  color: red; }
+  color: blue; }
 
 .main {
   max-width: 800px;
   margin: 0 auto;
-  margin-top: 101px; }
+  margin-top: 100px; }
 
-#footer {
+.footer {
+  background-color: #4c4848;
   text-align: center;
-  width: 300px;
-  margin: 0 auto; }
+  position: absolute;
+  bottom: 0;
+  height: 60px;
+  width: 100%; }
 
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 850px) {
   .main {
-    margin: 0 2em;
-    margin-top: 101px; } }
+    margin: 0 25px;
+    margin-top: 100px; } }
 
 /*# sourceMappingURL=main.css.map */

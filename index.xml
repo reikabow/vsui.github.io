@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>_index on Victor Sui</title>
+    <title>Victor Sui</title>
     <link>https://vsui.github.io/</link>
-    <description>Recent content in _index on Victor Sui</description>
+    <description>Recent content on Victor Sui</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Jul 2017 22:55:12 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jun 2017 14:54:23 -0500</lastBuildDate>
     
 	<atom:link href="https://vsui.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Doing it for everybody and their dog</title>
-      <link>https://vsui.github.io/post/test_post/</link>
+      <link>https://vsui.github.io/doing-it-for-everybody-and-their-dog/</link>
       <pubDate>Thu, 29 Jun 2017 14:54:23 -0500</pubDate>
       
-      <guid>https://vsui.github.io/post/test_post/</guid>
+      <guid>https://vsui.github.io/doing-it-for-everybody-and-their-dog/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin faucibus molestie varius. Nam volutpat nibh justo, ut dapibus diam aliquam a. In tempus ipsum at nulla tempor, sit amet malesuada dui pretium. Praesent ullamcorper sagittis bibendum. Donec risus velit, dignissim id augue sed, rutrum hendrerit felis. Mauris eu orci eget orci mattis elementum sed in risus. Donec nec urna vitae velit ultrices faucibus a sit amet lorem. Nam suscipit odio at efficitur tempor.</description>
     </item>
     

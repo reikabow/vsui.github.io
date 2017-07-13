@@ -3,18 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://vsui.github.io/</loc>
-    <lastmod>2017-07-09T22:55:12-05:00</lastmod>
+    <loc>https://vsui.github.io/about/</loc>
+    <lastmod>2017-07-12T13:20:25-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://vsui.github.io/post/test_post/</loc>
+    <loc>https://vsui.github.io/doing-it-for-everybody-and-their-dog/</loc>
     <lastmod>2017-06-29T14:54:23-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://vsui.github.io/categories/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -25,6 +20,12 @@
   
   <url>
     <loc>https://vsui.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vsui.github.io/</loc>
+    <lastmod>2017-06-29T14:54:23-05:00</lastmod>
     <priority>0</priority>
   </url>
   
